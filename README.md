@@ -6,7 +6,7 @@ Thie GitHub testing is made for automation practice and thesis.
 
 Requirements : Visual Studio Code, Typescript, Jest and Selenium installed. <br>
 
-WebDriver with Selenium -> [download](https://chromedriver.chromium.org/downloads) ChromeDriver with the proper Chrome version
+WebDriver with Selenium -> [download](https://chromedriver.chromium.org/downloads) ChromeDriver with the proper Chrome version <br>
 In case of a Chrome Browser update, run : `npm install selenium-webdriver@latest` to update Selenium. 
 
 Node.js -> [here](https://nodejs.org/en/download) <br>
