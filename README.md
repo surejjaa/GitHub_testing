@@ -1,6 +1,6 @@
 # GitHub_testing
 
-Thie GitHub testing is made for automation practice and thesis.
+This repository, GitHub testing, is made for automation practice.
 
 # Framework setup
 
